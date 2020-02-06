@@ -1,2 +1,0 @@
-# BUAS
-University School project
